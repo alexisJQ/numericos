@@ -1,0 +1,1 @@
+Para ejecutar el programa, se debe ejecutar el archivo Main.m

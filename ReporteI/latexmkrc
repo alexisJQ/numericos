@@ -1,0 +1,2 @@
+$latex = 'pdflatex --shell-escape';
+$pdflatex = 'pdflatex -shell-scape';
